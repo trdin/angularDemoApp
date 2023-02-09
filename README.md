@@ -4,6 +4,8 @@
 
 # Demoapp
 
+App was mad following this [tutorial](https://www.youtube.com/watch?v=3dHNOWTI7H8). A task app, creating, listing and deleting tasks.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
 ## Development server
